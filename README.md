@@ -6,9 +6,9 @@ Follow the steps below to use the bot.
 
 ### 🔧 Instalation
 ```
-git clone https://github.com/eduzadaah/moderator and installation.bat
+git clone https://github.com/eduzadaah/moderator and install.bat
 or
-Download and installation.bat
+Download and install.bat
 ```
 
 ### ⚙️ Configuration
