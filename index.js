@@ -6,9 +6,9 @@ const ms = require("ms");
 const client = new Client({ intents: 32767 });
 client.embed = new MessageEmbed();
 client.config = {
-    logs: "1181233729499320352",
-    welcome: "1181234752418754642",
-    role: "1181245497021833297"
+    logs: "LOGS ADMIN",
+    welcome: "CHANNEL WELCOME",
+    role: "ROLE WELCOME"
 }
 
 client.on("ready", () => {
